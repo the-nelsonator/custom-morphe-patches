@@ -1,4 +1,4 @@
-group = "app.template"
+group = "app.nelsonator"
 
 patches {
     // TODO: Update this section with your project details.
